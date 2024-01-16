@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-In this task, the objective is to compare the performance of three distinct algorithms on a synthetic training set with the goal of learning a true vector w*. The dataset generation process involves first selecting a weight vector w* from a standard normal distribution and normalizing it to have a Euclidean norm of 1. Subsequently, a training set of size m is generated, consisting of random vectors x_i and binary labels y_i, where the labels are determined by a function incorporating the sigmoid function and a uniform distribution.
+In this project, the objective is to compare the performance of three distinct algorithms on a synthetic training set with the goal of learning a true vector w*. The dataset generation process involves first selecting a weight vector w* from a standard normal distribution and normalizing it to have a Euclidean norm of 1. Subsequently, a training set of size m is generated, consisting of random vectors x_i and binary labels y_i, where the labels are determined by a function incorporating the sigmoid function and a uniform distribution.
 
 The three algorithms to be evaluated are as follows:
 1. **Logistic Regression (Algorithm 1):**
